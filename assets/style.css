@@ -1,0 +1,8 @@
+
+.jumbotron {
+	text-align: center;
+	background-image: url("train.jpeg");
+	background-size: 700px;
+	color: #FFFFFF;
+	font-weight: bolder;
+}
